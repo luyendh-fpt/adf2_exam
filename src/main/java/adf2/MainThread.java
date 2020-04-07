@@ -27,8 +27,6 @@ public class MainThread {
         model.save(account4);
         Account account5 = new Account("haituan", "2345", "Hai Tuan", "2000-03-12");
         model.save(account5);
-        Account account6 = new Account("congmanh", "3345", "Cong Manh", "2001-02-03");
-        model.save(account6);
         Account account7 = new Account("thanhtung", "2345", "Thanh Tung", "2001-02-03");
         model.save(account7);
     }
